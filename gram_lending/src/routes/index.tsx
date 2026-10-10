@@ -183,8 +183,8 @@ function Index() {
 
       <footer className="relative z-10 border-t border-border">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-6 py-10 text-sm text-muted-foreground md:flex-row">
-          <div className="flex items-center gap-3"><Logo size={28} /> Gram © 2026</div>
-          <div>Expo · Next.js · TypeScript</div>
+          <div className="flex items-center gap-3"><Logo size={28} /> Gram - расширяй мышление © 2026</div>
+          
         </div>
       </footer>
     </div>
